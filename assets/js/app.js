@@ -11,8 +11,8 @@ import '../css/app.css';
 
 console.log('Hello Webpack Encore! Edit me in assets/js/app.js');
 
-import noUiSlider from 'noUiSlider'
-import 'noUiSlider/distribute/noUiSlider.css'
+import noUiSlider from 'nouislider'
+import 'nouislider/distribute/nouislider.css'
 
 
 const slider = document.getElementById('price-slider');
